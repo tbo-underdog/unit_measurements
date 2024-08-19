@@ -57,7 +57,7 @@ UnitMeasurements::Volume = UnitMeasurements.build do
 
     unit "ac⋅ft", value: "43560 ft³", aliases: ["acre-foot", "acre-feet"]
     unit "ac⋅in", value: "6272640 in³", aliases: ["acre-inch", "acre-inches"]
-
+    unit "usgal", value: "3.785411784 dm³", aliases: ["us-gallon", "us-gal"]
     unit "cd-ft", value: "1/8 cd", aliases: ["cord-foot", "cord-feet"]
   end
 
